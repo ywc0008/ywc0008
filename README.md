@@ -1,5 +1,3 @@
-# wzz
-
  ![](https://gh-hits.nomadcoders.workers.dev/view?username=wzz)
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,3 +17,7 @@
  <a href="https://supabase.com//" target="_blank"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/> </a>
 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+
+# 📊 GitHub Stats:
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ywc0008)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ywc0008&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
