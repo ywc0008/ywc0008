@@ -18,6 +18,9 @@
 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 
-# 📊 GitHub Stats:
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ywc0008)](https://github.com/anuraghazra/github-readme-stats)-->
+# GitHub Stats:
+<!--[![wzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ywc0008)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ywc0008&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+# GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ywc0008&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
